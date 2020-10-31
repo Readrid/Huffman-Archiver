@@ -8,10 +8,10 @@ $ make -j8
 ```
 
 The archiver supports 4 command line flags:
-*```-c```: archiving
-*```-u```: unzipping
-*```-f```, ```--file <path>```: input file name
-*```-o```, ```--output <path>```: output file name
+  * ```-c```: archiving
+  * ```-u```: unzipping
+  * ```-f```, ```--file <path>```: input file name
+  * ```-o```, ```--output <path>```: output file name
 
 Example:
 ```
